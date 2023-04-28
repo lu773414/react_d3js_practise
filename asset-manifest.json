@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_d3js_practise/static/css/main.f5d545c6.css",
-    "main.js": "/react_d3js_practise/static/js/main.4409baef.js",
+    "main.js": "/react_d3js_practise/static/js/main.e2ea7538.js",
     "static/js/787.9c3c7b8a.chunk.js": "/react_d3js_practise/static/js/787.9c3c7b8a.chunk.js",
     "static/media/NotoSansTC-Black.otf": "/react_d3js_practise/static/media/NotoSansTC-Black.55f05e627100ed0de026.otf",
     "static/media/NotoSansTC-Bold.otf": "/react_d3js_practise/static/media/NotoSansTC-Bold.31790b4aedd48d3b5b49.otf",
@@ -24,11 +24,11 @@
     "static/media/slick.woff": "/react_d3js_practise/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/react_d3js_practise/index.html",
     "main.f5d545c6.css.map": "/react_d3js_practise/static/css/main.f5d545c6.css.map",
-    "main.4409baef.js.map": "/react_d3js_practise/static/js/main.4409baef.js.map",
+    "main.e2ea7538.js.map": "/react_d3js_practise/static/js/main.e2ea7538.js.map",
     "787.9c3c7b8a.chunk.js.map": "/react_d3js_practise/static/js/787.9c3c7b8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5d545c6.css",
-    "static/js/main.4409baef.js"
+    "static/js/main.e2ea7538.js"
   ]
 }
