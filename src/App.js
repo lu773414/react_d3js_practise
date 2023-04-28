@@ -11,7 +11,7 @@ function App() {
       <Router>
         <Routes>
           {/* <Route path="/" element={<Home />} /> */}
-          <Route path="/" element={<County />} />
+          <Route path="/react_d3js_practise" element={<County />} />
         </Routes>
       </Router>
     </>
